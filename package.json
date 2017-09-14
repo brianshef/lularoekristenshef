@@ -1,21 +1,30 @@
 {
+  "title": "Shop LuLaRoeKristenShef.com",
   "name": "lularoekristenshef",
   "version": "1.0.0",
-  "description": "LuLaRoeKristenShef.com",
-  "main": "node server.js",
-  "scripts": {
-    "test": "echo \"Warning: no test specified\" && exit 1"
+  "description": "Shop LuLaRoeKristenShef.com",
+  "keywords": [],
+  "homepage": "http://shop.lularoekristenshef.com",
+  "bugs": {
+    "url": "https://github.com/brianshef/lularoekristenshef/issues"
   },
+  "license": "MIT",
+  "author": "Brian Shef <brianshef@gmail.com>",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brianshef/lularoekristenshef.git"
   },
-  "keywords": [],
-  "author": "Brian Shef <brianshef@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brianshef/lularoekristenshef/issues"
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
   },
-  "homepage": "http://shop.lularoekristenshef.com",
-  "dependencies": {}
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
+  }
 }
