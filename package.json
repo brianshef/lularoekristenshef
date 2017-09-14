@@ -1,0 +1,21 @@
+{
+  "name": "lularoekristenshef",
+  "version": "1.0.0",
+  "description": "LuLaRoeKristenShef.com",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianshef/lularoekristenshef.git"
+  },
+  "keywords": [],
+  "author": "Brian Shef <brianshef@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianshef/lularoekristenshef/issues"
+  },
+  "homepage": "http://shop.lularoekristenshef.com",
+  "dependencies": {}
+}
